@@ -1,3 +1,6 @@
 workspace.json
 **/*.md
 !README.md
+__INSERTS
+__TEMPLATES
+!**/.gitkeep
